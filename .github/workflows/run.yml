@@ -24,6 +24,6 @@ jobs:
                   GH_TOKEN: ${{ secrets.GH_TOKEN }} # Do not edit, defined in secrets
 
                   # Edit the following environment variables
-                  GIST_ID: 8ba970cf3e6a32ae7cbb72fdd926df6c#file-waka # The ID portion from your gist url
+                  GIST_ID: d5b00341f40a2433974fe5e59c1fd2e4 # The ID portion from your gist url
                   ALL_COMMITS: true # If `true` it will count all commits, if `false` it will count your last year commits
                   K_FORMAT: false # If `true`, large numbers will be formatted with a "k", for example "1.5k"
